@@ -7,7 +7,7 @@ const pranzoItems: MenuItemData[] = [
     { name: 'Tegliuccio Chieno alla Mortazza', description: "Mortadella Favola Palmieri, finocchio in osmosi con aceto, sedano cotto in ghiaccio, olio EVO frantoiano.", price: '5.00 / fetta', icons: [] },
     { name: 'Tegliuccio Chieno Spalla di Maiale Nero', description: "Spalla di maiale nero cotta a bassa temperatura, mozzarella Paolo Amato, provolone dei Monti Lattari, sbattuto di olio Rotondella, prezzemolo e peperoncino.", price: '5.00 / fetta', icons: [] },
     // MODIFIED
-    { name: 'Tegliuccio Chieno di Sant'Antonio Abate', description: "Porchetta di Sant'Antonio Abate, patate al forno in burro affumicato sì Paolo Amato, provola liquida, filetti di provola di vacca Jersey, pepe biologico.", price: '5.00 / fetta', icons: [] },
+    { name: "Tegliuccio Chieno di Sant'Antonio Abate", description: "Porchetta di Sant'Antonio Abate, patate al forno in burro affumicato sì Paolo Amato, provola liquida, filetti di provola di vacca Jersey, pepe biologico.", price: '5.00 / fetta', icons: [] },
 
     // MODIFIED
     { name: 'Tegliuccio alla Genovese', description: "Cipolla ramata di Montoro, sfilaccetti di tasca di manzo, crema di pecorino dei Monti Lattari, profumo di alloro, pepe intero biologico macinato fresco.", price: '5.00 / fetta', icons: [] },
@@ -27,7 +27,7 @@ const pranzoItems: MenuItemData[] = [
     { name: 'Tegliuccio Broccoli e Salsiccia', description: "Crema di broccolo 'Friariello' di Sant'Antonio Abate, salsiccia di maiale nero, provola di Paolo Amato, basilico, olio EVO frantoiano, parmigiano dei poverelli al friariello.", price: '5.00 / fetta', icons: [] },
 
     // MODIFIED
-    { name: 'Tegliuccio Orto d'Inverno', description: "Zucca grigliata e condita con battuto di prezzemolo, olio monocultivar rotondella e peperoncino secco, fior di latte di vacca Jersey, porcini dei monti di Vico Equense ripassati in padella ai profumi di cipolla", price: '5.00 / fetta', icons: [] },
+    { name: "Tegliuccio Orto d'Inverno", description: "Zucca grigliata e condita con battuto di prezzemolo, olio monocultivar rotondella e peperoncino secco, fior di latte di vacca Jersey, porcini dei monti di Vico Equense ripassati in padella ai profumi di cipolla", price: '5.00 / fetta', icons: [] },
 
     // MODIFIED
     { name: 'Tegliuccio Allardiato', description: "Sugo allardiato, mozzarella Paolo Amato, parmigiano reggiano, olio Rotondella, profumo di alloro al pomodoro datterino biologico.", price: '4.50 / fetta', icons: [] },
