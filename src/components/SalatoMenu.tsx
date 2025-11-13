@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { MenuItemData } from '../types';
 import MenuItem from './MenuItem';
@@ -10,7 +9,7 @@ const tegliucciItems: MenuItemData[] = [
   { name: 'Tegliuccio Patate e Wurstel Artigianali', description: 'Patate fritte a stick, wurstel artigianale "Cillo" di Marchigiana, provola liquida, fior di latte Paolo Amato, olio EVO frantoiano.', price: '8.00', icons: '🌾🥛' },
   { name: 'Tegliuccio Diavolo Giallo', description: 'Ristretto di datterino giallo biologico, datterino giallo confit, mozzarella Paolo Amato, filetti di salame a punta di coltello "Cillo", basilico, olio EVO Rotondella.', price: '8.00', icons: '🌾🥛🐖' },
   { name: 'Tegliuccio Broccoli e Salsiccia', description: "Crema di broccolo 'Friariello' di Sant'Antonio Abate, salsiccia di maiale nero, provola dei Monti Lattari, basilico, olio EVO frantoiano.", price: '8.00', icons: '🌾🥛🐖', seasonalNote: 'Disponibile da Ottobre a Marzo.' },
-  { name: 'Tegliuccio Orto di Inverno', description: "Pomodorino datterino giallo biologico confit, crema di cavolfiore all'olio Rotondella, pomodorino secco datterino biologico, finocchio in osmosi all'aceto balsamico, capperi di Salina, olio frantoiano di Lettere.", price: '8.00', icons: '🌾', seasonalNote: 'Disponibile da Ottobre a Febbraio.' },
+  { name: 'Tegliuccio Ortolana Invernale', description: "Zucca, cardoncelli, porcini freschi, provola di Agerola, aglio, olio, peperoncino.", price: '8.00', icons: '🌾🥛', seasonalNote: 'Disponibile da Ottobre a Febbraio.' },
   { name: 'Tegliuccio Essenza di Pomodoro e Mozzarella', description: "Ristretto di datterino biologico, battuto di olio EVO Rotondella con aglio, prezzemolo e peperoncino, filetti di pomodoro San Marzano arrosto, datterino giallo biologico confit, mozzarella liquida, tranci di mozzarella Aurora fresca.", price: '8.00', icons: '🌾🥛' },
 ];
 
@@ -68,7 +67,7 @@ const SalatoMenu: React.FC = () => {
       <div className="mt-6 p-4 rounded-lg border border-amber-800 bg-amber-950/30 text-stone-300 text-sm">
         <h4 className="font-bold text-amber-300 mb-2">Nota Allergeni</h4>
         <p>Per qualsiasi informazione su allergeni e ingredienti non esitate a chiedere al nostro personale. I piatti possono contenere tracce dei seguenti allergeni.</p>
-        <p className="mt-2 text-lg">🌾 🥛 🥚 🐟 🌿</p>
+        <p className="mt-2 text-lg">🌾 🥛</p>
       </div>
 
     </div>
