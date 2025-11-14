@@ -8,7 +8,7 @@ const frittiItems: MenuItemData[] = [
   { name: 'Frittatina alla Bolognese', description: 'Un guscio dorato che racchiude un cuore cremoso di spaghetti, ragù alla bolognese con macinato di scottona e besciamella.', price: '2.50', icons: '🌾🥛🥚🥩' },
   { name: 'Frittatina Cacio e Pepe', description: "La tradizione romana in un fritto: spaghetti di grano Senatore Cappelli, cremoso pecorino dei Monti Lattari e l'aroma unico del pepe di Kampot.", price: '2.50', icons: '🌾🥛' },
   { name: 'Frittatina di Pasta e Patate', description: 'Il comfort food per eccellenza: spaghetti di grano Senatore Cappelli con patate, besciamella, pancetta arruscata e provola affumicata.', price: '2.50', icons: '🌾🥛🥔🐖' },
-  { name: 'Polpetta della Nonna', description: "La ricetta classica napoletana: macinato di scottona, pane raffermo, provola e pecorino dei Monti Lattari, uova e prezzemolo. Fritte come una volta.", price: '1.00', icons: '🌾🥛🥚🥩' },
+  { name: 'Polpetta della Nonna', description: "La ricetta classica napoletana: macinato di scottona, pane raffermo, provola e pecorino dei Monti Lattari, uova e prezzemolo. Fritte come una volta.", price: '1.50', icons: '🌾🥛🥚🥩' },
   { name: 'Crocchè Napoletano', description: 'Il vero crocchè della tradizione: patate fresche, prezzemolo e un cuore filante di fior di latte.', price: '2.00', icons: '🥔🥛' },
 ];
 
